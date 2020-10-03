@@ -1,0 +1,10 @@
+int reverseNumber(int number);
+void printReversedNumber();
+void readIntoMatrices(int** ppFirst, int** ppSecond, int* nrRows, int* rowLength);
+void calculateSumAndDisplay(const int* pFirst, const int* pSecond, int nrRows, int rowLength);
+void printSumS1();
+void insertIntoVector(int* pVector, int vectorLength, int position, int value);
+void printUpdatedVector();
+void printVector(const int* vector, int length);
+void printSumS4();
+void printSumS7();

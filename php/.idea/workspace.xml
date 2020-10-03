@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1aa01f5-2ecc-472c-8b8d-149ca1c10f9f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/Date.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/Haine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/controller/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/controller/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/model/CitireFisier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/model/CitireFisier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/model/ComparatorTip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/model/Entitate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/model/Entitate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/serviciu/ServiciuFiltrare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/serviciu/ServiciuFiltrare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/serviciu/ServiciuSortare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/view/Tabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../programming_fundamentals/src/exam_template/view/Tabel.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1TRIxWqvlIbbRmQ8dwKEMITF3Dr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/training" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julie\Documents\labs\intro-to-programming\lab2\lab2_php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.sticks.php">
+    <configuration name="print_even_and_odd_sums.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab2_php/print_even_and_odd_sums.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="private.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test/private.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="sticks.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test/sticks.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/lab2_php/get_min_of_four_nrs.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.test" />
+      <item itemvalue="PHP Script.print_even_and_odd_sums.php" />
+      <item itemvalue="PHP Script.private.php" />
+      <item itemvalue="PHP Script.sticks.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.sticks.php" />
+        <item itemvalue="PHP Script.private.php" />
+        <item itemvalue="PHP Script.print_even_and_odd_sums.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1aa01f5-2ecc-472c-8b8d-149ca1c10f9f" name="Default" comment="" />
+      <created>1570944566791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570944566791</updated>
+      <workItem from="1570944567942" duration="2493000" />
+      <workItem from="1573416729867" duration="19000" />
+      <workItem from="1573416938073" duration="5000" />
+      <workItem from="1576311916843" duration="1519000" />
+      <workItem from="1576315792209" duration="628000" />
+      <workItem from="1576322982190" duration="110000" />
+      <workItem from="1576324074987" duration="399000" />
+      <workItem from="1576348185509" duration="191000" />
+      <workItem from="1579026093183" duration="618000" />
+      <workItem from="1579630007499" duration="5000" />
+      <workItem from="1581164379200" duration="17000" />
+      <workItem from="1581861841109" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lab2_php/get_min_of_four_nrs.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
